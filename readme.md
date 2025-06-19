@@ -1,5 +1,7 @@
 # AI-Based Live Fall Detection GCN
 
+![Demo GIF](demo.gif)
+
 A simple skeleton-based Graph Convolutional Network (GCN) system for real-time fall detection.  
 Designed as a baseline/demo for researchers and university students.
 
